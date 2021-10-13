@@ -9,3 +9,13 @@ Software dev with primary focus on JavaScript and Firebase. Expert in HTML, CSS,
 #### Projects
 
 - [The Drum Beat Book Store](https://github.com/moadams847/The-Drum-Beat-Book-Site/tree/UseJQueryToRefactor)
+
+- [AdminComp Docs Site](https://github.com/moadams847/AdminComp-Docs/tree/AddFirebase)
+
+- [AdminComp Docs Dashboard](https://github.com/moadams847/AdminComp-Docs-Dashboard/tree/authFirebase)
+
+- [Password Generator App](https://github.com/moadams847/Flask-API-Password-Generator/tree/useOOPJS)
+
+- [Password Generator API](https://fierce-anchorage-76525.herokuapp.com/passwordapi/v2/special-characters?passwordLength=15)
+
+- [Recipe App with Firebase and Webpack](https://github.com/moadams847/recipe-app-webpack/tree/tryFeature)
