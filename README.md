@@ -8,4 +8,4 @@ Software dev with primary focus on JavaScript and Firebase. Expert in HTML, CSS,
 
 #### Projects
 
-- - 📫[The Drum Beat Book Store](https://github.com/moadams847/The-Drum-Beat-Book-Site/tree/UseJQueryToRefactor)
+- [The Drum Beat Book Store](https://github.com/moadams847/The-Drum-Beat-Book-Site/tree/UseJQueryToRefactor)
