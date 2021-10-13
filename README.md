@@ -6,7 +6,7 @@ Software dev with primary focus on JavaScript and Firebase. Expert in HTML, CSS,
 - 💞️ I’m looking to collaborate on Python and JavaScript Projects
 - 📫 Reach me on [Twitter](https://twitter.com/moadams847)
 
-#### Projects
+### Projects
 
 - [The Drum Beat Book Store](https://github.com/moadams847/The-Drum-Beat-Book-Site/tree/UseJQueryToRefactor)
 
@@ -19,3 +19,7 @@ Software dev with primary focus on JavaScript and Firebase. Expert in HTML, CSS,
 - [Password Generator API](https://fierce-anchorage-76525.herokuapp.com/passwordapi/v2/special-characters?passwordLength=15)
 
 - [Recipe App with Firebase and Webpack](https://github.com/moadams847/recipe-app-webpack/tree/tryFeature)
+
+- [Todo List App with Typescript and Webpack](https://github.com/moadams847/TodoAPP-Typescript-Webpack/tree/useTypeScript)
+
+- [landing page for a nonprofit organisation](https://github.com/moadams847/ZongoG-Website)
