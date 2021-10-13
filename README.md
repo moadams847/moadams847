@@ -2,4 +2,4 @@
 - 👀 I’m interested in JavaScript, Python and Firebase
 - 🌱 I’m currently learning Django and AWS
 - 💞️ I’m looking to collaborate on Python and JavaScript Projects
-- 📫 How to reach me ...
+- 📫 How to reach me on[Twitter](https://twitter.com/moadams847)
