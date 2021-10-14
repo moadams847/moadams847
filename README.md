@@ -22,7 +22,7 @@
 
 - [Password Generator API](https://fierce-anchorage-76525.herokuapp.com/passwordapi/v2/special-characters?passwordLength=15)
 
-- [Recipe App with Firebase and Webpack](https://github.com/moadams847/recipe-app-webpack/tree/tryFeature)
+- [Recipe App with Firebase](https://github.com/moadams847/Firebase-Recipe-Project/blob/tryFeature/README.md)
 
 - [Todo List App with Typescript and Webpack](https://github.com/moadams847/TodoAPP-Typescript-Webpack/tree/useTypeScript)
 
