@@ -1,5 +1,4 @@
-#### Software dev with primary focus on JavaScript and Python. Expert in HTML, CSS, Javascript, Python, SQL, Django and Flask. I am committed to becoming a valuable member of any team I am a part of, and I believe in the power of a united front.
-
+#### An economics graduate with strong analytical, programming and quantitative skills in analyzing data. Has good data storytelling and communication skills. Has extensive (in some cases) and intermediate understanding of Python, R, PowerBI, SQL, AWS, Microsoft office suite and typical research skills.
 - 👋 Hi, I’m @moadams847
 
 - 👀 I’m interested in JavaScript, Python and Firebase
