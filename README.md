@@ -1,6 +1,6 @@
 #### An economics graduate with strong analytical, programming and quantitative skills in analyzing data. Has good data storytelling and communication skills. Has extensive (in some cases) and intermediate understanding of Python, R, PowerBI, SQL, AWS, Microsoft office suite and typical research skills.
 
-- 👋 Hi, I’m @moadams847
+- 👋 Hi, I’m Mohammed Adams
 
 - 👀 I’m interested in Python, R, SQL, AWS, ML, PowerBI and Database Design
 
