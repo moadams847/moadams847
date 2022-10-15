@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @moadams847
 
-- 👀 I’m interested in JavaScript, Python and Firebase
+- 👀 I’m interested in Python, R, SQL, AWS, ML, PowerBI and Database Design
 
 - 🌱 I’m currently taking the google data analytics programme as well as learning AWS
 
