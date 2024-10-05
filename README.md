@@ -2,12 +2,6 @@
 
 - 👀 I’m interested in Python, R, SQL, AWS, ML, IT Support, PowerBI and Database Design
 
-- 🌱 I’m currently taking the google data analytics programme as well as learning AWS
-
-- 💞️ I’m looking to collaborate on Python, Data Analytics, AWS and Machine learning Projects
-
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mohammed-adams-5420a91ab/)
-
 ### Projects
 
 
